@@ -76,7 +76,7 @@ DupeButton.Position = UDim2.new(0.06, 0, 0, 60)
 DupeButton.BackgroundColor3 = Color3.fromRGB(0, 180, 90)
 DupeButton.BorderSizePixel = 0
 DupeButton.Font = Enum.Font.GothamBold
-DupeButton.Text = "DUPE INFINITY"
+DupeButton.Text = "DUPE INFINITY | DIVINE"
 DupeButton.TextColor3 = Color3.fromRGB(255, 255, 255)  -- Pure White
 DupeButton.TextSize = 24
 DupeButton.AutoButtonColor = false
@@ -166,3 +166,4 @@ end)
 
 
 print("Dupe UI updated • 🤖 DUPE SYSTEM")
+
