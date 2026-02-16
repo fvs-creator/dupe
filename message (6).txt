@@ -63,7 +63,7 @@ Title.Size = UDim2.new(1, -50, 1, 0)
 Title.Position = UDim2.new(0, 15, 0, 0)
 Title.BackgroundTransparency = 1
 Title.Font = Enum.Font.GothamBlack
-Title.Text = "🤖 DUPE SYSTEM"  -- Updated title with emoji
+Title.Text = "🤖 DupeCreatorDev"  -- Updated title with emoji
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)  -- Pure White
 Title.TextSize = 18
 Title.TextXAlignment = Enum.TextXAlignment.Left
@@ -165,5 +165,6 @@ CloseBtn.MouseButton1Click:Connect(function()
 end)
 
 
-print("Dupe UI updated • 🤖 DUPE SYSTEM")
+print("Dupe UI updated • YT: DupeCreatorDev")
+
 
